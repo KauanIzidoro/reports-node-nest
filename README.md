@@ -15,11 +15,11 @@
 
 > [Introdução](#introdução) 
 
-> [Node projects](/report/node-projects.md)
+> [Node projects](/reports/node-projects.md)
 
-> [Nest Projecs](/report/nest-projects.md)
+> [Nest Projecs](/reports/nest-projects.md)
 
-> [DevTools](/report/devtools.md)
+> [DevTools](/reports/devtools.md)
 
 
 ## Introdução 
