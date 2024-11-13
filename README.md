@@ -15,9 +15,11 @@
 
 > [Introdução](#introdução) 
 
-> [Node projects](#node-projects)
+> [Node projects](/report/node-projects.md)
 
-> [Nest Projecs](#nest-projects)
+> [Nest Projecs](/report/nest-projects.md)
+
+> [DevTools](/report/devtools.md)
 
 
 ## Introdução 
@@ -32,10 +34,3 @@ Fornece uma estrutura robusta para o desenvolvimento, incluindo suporte nativo p
 [Node](https://nodejs.org/en) é um ambiente de execução `JavaScript` que funciona server-side. É baseado em um modelo de eventos assíncronos e de I/O não bloqueante, o que o torna muito eficiente para aplicações que precisam lidar com muitas requisições simultâneas tal como `APIs RESTful`.
 
 `NodeJS` fornece apenas funcionalidades básicas de sistemas, como manipulação de arquivos, requisições `HTTP`, manipulação de processos, etc. Isso significa que você escolher `frameworks` adicionais para construir aplicações mais sofisticadas. Oferece flexibilidade para estruturar a aplicação como desejar, o que exige mais decisões de design e arquitetura do desenvolvedor. 
-
-
-## Node projects
-...
-
-## Nest projects
-...
