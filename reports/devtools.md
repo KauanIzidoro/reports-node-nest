@@ -40,6 +40,12 @@ source ~/.bashrc
 source ~/.zshrc
 ```
 
+- Instale a versão mais recente do node:
+
+```bash
+nvm install node
+```
+
 ## npm - Node Package Manager
 
 O `npm` é o gerenciador de pacotes do `Node.js`. E também é a ferramenta que pode ser usada para executar scripts e tarefas em projetos `Node`.
