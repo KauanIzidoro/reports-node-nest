@@ -1,6 +1,6 @@
 # NodeJS Projects
 
-### Setup para aplicações Node com TypeScript
+### Setup para aplicações Node com [TypeScript](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 
 Este passo-a-passo requer um ambiente de desenvolvimento Linux.
 
