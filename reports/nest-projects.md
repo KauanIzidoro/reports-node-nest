@@ -77,3 +77,5 @@ export class UsersService {
 ### 4. Decorators
 
 Decoradores são usados para adicionar metadados às classes e seus membros. Alguns dos principais decoradores do `NestJS` incluem `@Module`, `@Controller`, `@Injectable`, `@Get`, `@Post`, entre outros.
+
+
