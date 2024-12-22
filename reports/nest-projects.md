@@ -79,3 +79,18 @@ export class UsersService {
 Decoradores são usados para adicionar metadados às classes e seus membros. Alguns dos principais decoradores do `NestJS` incluem `@Module`, `@Controller`, `@Injectable`, `@Get`, `@Post`, entre outros.
 
 
+### Problemas com Prisma ORM
+
+O `Prisma` possui compatibilidade com o node 18 ou menor, então é necessário possuir esta versão no projeto:
+
+Usando `Node Version Manager`:
+
+```bash
+nvm install 18
+nvm use 18
+```
+Se necessário, faça a limpeza do cache do projeto: 
+
+```bash
+npm cache clean --force
+```
